@@ -61,6 +61,7 @@ final dimensions are ~15um x ~19um, about the size of a large bacterium.
 | **WSL2 (Ubuntu)** | Development environment |
 
 > **Note:** The full place-and-route pipeline used to generate the final GDS from the netlist is proprietary and not documented here. See `LICENSE.md`.
+
 > **Note:** Never do this in WSL2 again. Save yourself the hassle and just get Ubuntu on a Virtual Machine.
 
 ---
